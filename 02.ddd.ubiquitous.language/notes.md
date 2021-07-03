@@ -1,3 +1,6 @@
+
+
+### Tactical Patterns: Creating Effective Domain Models
         
 ### The Ubiquitous Language
       -  The Need for a Common Language
