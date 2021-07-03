@@ -1,0 +1,189 @@
+body, html {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f2f2f2;
+  height: 92%;
+}
+
+code {
+  font-family: Lucida Console;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline
+}
+
+li {
+  margin-bottom: .5rem
+}
+
+table {
+  border: none;
+}
+
+thead {
+  font-size: x-large;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border: none;
+  width: 100%;
+  text-align: left ;
+}
+
+tbody {
+  font-family: arial, sans-serif;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: black;
+  text-align: left ;
+}
+
+.homeNavBar li {
+  padding:10px;
+  display: inline;
+}
+
+.loginTitle {
+  text-align: center;
+  padding-bottom: 8px;
+  font-size: 40px;
+  font-family: Calibri, 'Staatliches';
+}
+
+.secTitle {
+  padding-bottom: 40px;
+}
+
+#userConfig {
+  text-transform: capitalize;
+  color: black;
+  margin-right: 2%;
+}
+
+.innerDiv {
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff;
+  width: 40%;
+  padding: 60px;
+  box-shadow: 1px 1px 30px  grey;
+}
+
+.outerDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 7%;
+
+}
+
+a {
+  color: black;
+}
+
+.btn-primary{
+}
+
+.btn-primary:hover {
+}
+
+.navBar {
+  display: block;
+}
+
+
+a:hover {
+  color: blue;
+  text-decoration: none ;
+}
+
+.Tables {
+  width: 90%;
+  height: 10%;
+  bordered: false;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#LedgerTableBody {
+  overflow: auto;
+  height: 300px;
+}
+
+#LedgerBody {
+  text-align: left;
+}
+
+.LedgerTableDiv {
+  overflow: auto;
+  height: 500px;
+  border: 3px solid blue;
+  padding-top: 10%;
+  margin-top: 5%;
+}
+
+#LedgerHeader th{
+  text-align: left;
+  margin: 0;
+  width: 200px;
+}
+
+.Forms {
+  margin-left: 5%;
+  margin-right: 5%;
+  display: flex;
+}
+
+#label{
+  margin: 10px;
+}
+
+::placeholder {
+  font-size: small;
+  color:black;
+}
+
+.GroupDenomination {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.GroupDenomination:hover {
+  color: #616161;
+}
+
+#FormDiv {
+}
+
+#SearchButton {
+  position:relative;
+  left:0.5%;
+  top:0%;
+  flex-wrap: wrap;
+  height:44px;
+  width: 73px;
+}
+
+#ResetButton {
+  position:relative;
+  right: 4.5%;
+  top:20%;
+  flex-wrap: wrap;
+  height:44px;
+  width: 73px;
+}
+
+.FormDiv {
+  display: flex;
+}
+
+#GroupIdentification {
+  display:inline;
+}
+
+.activeNavLink {
+  background-color: cornflowerblue;
+  border-radius: 8px;
+}
