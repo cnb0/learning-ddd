@@ -1,5 +1,7 @@
 ## Learning Domain Driven Design - DDD
 
+### [Awesome DDD](https://github.com/heynickc/awesome-ddd)
+
 ### 1. What Is Domain-Driven Design (DDD)
       - Building Domain Knowledge
 
