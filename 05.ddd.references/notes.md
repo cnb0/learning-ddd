@@ -5,3 +5,8 @@
 - [DDD Microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice)
 - [Tactical DDD](https://vaadin.com/learn/tutorials/ddd/tactical_domain_driven_design)
 - [DDD](https://www.geeksforgeeks.org/domain-driven-design-ddd/)
+
+
+### [DDD Meetup](https://www.meetup.com/InDDDaba-Domain-Driven-Design-Cape-Town/) 
+
+    
